@@ -1,6 +1,6 @@
 //Viết chương trình tính tổng các số chẵn của mảng 1 chiều
 import java.util.Scanner;
-public class slide74 {
+public class Slide74 {
     public static void main(String[] args) throws Exception {
         Scanner sc=new Scanner(System.in);
         int n,tong=0;

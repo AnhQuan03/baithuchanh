@@ -1,6 +1,6 @@
 //Viết chương trình nhập vào các phần tử cho một ma trận 2 chiều, sau đó tìm và hiển thị phần tử có giá trị lớn nhất trong ma trận đó.
 import java.util.Scanner;
-public class slide81 {
+public class Slide81 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int dong,cot;

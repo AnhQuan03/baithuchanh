@@ -1,6 +1,6 @@
 //Viết chương trình tính tổng các số chẵn của mảng 2 chiều
 import java.util.Scanner;
-public class slide75 {
+public class Slide75 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int dong, cot, tong=0;
